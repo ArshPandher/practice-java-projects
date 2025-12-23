@@ -1,0 +1,23 @@
+.root{
+	-fx-font-size: 14pt;
+}
+
+.correct{
+	-fx-text-fill: green;
+}
+
+.incorrect{
+	-fx-text-fill: red;
+}
+
+.big{
+	-fx-font-size: 30pt;
+}
+
+.medium{
+	-fx-font-size: 22pt;
+}
+
+.small{
+	-fx-font-size: 14pt;
+}
